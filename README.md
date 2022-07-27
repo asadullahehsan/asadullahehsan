@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadullahehsan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: LinkedIn
 https://www.linkedin.com/in/asadullah-ehsan-8b9b2a174/
 <!---
