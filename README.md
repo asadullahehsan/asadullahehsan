@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @asadullahehsan
-- 👀 I’m interested in Software Engineering, Full Stack Web Development and Cloud Computing
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Full Stack Software Engineering
+- 🌱 I’m currently learning .NET Core
+- My Tech Stack is .NET Core, Angular & React
 - 📫 How to reach me: LinkedIn
 https://www.linkedin.com/in/asadullahehsan/
 <!---
