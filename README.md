@@ -11,7 +11,7 @@ Driven by a desire to expand my expertise and pursue **remote opportunities** an
 - **Discovering Full Stack Options:** Primarily, my go to tech stack is **MERN**, **PERN** and **JAM** stacks for full stack **Web2 development**.
 - **Exploring Web3:** While diving deeper into web development, I discovered **Web3** as an emerging field with growing demand, which piqued my interest.
 - **Serverless Architectures:** I’m actively learning about **serverless technologies**, and plan to integrate them into my **Web2** and **Web3** projects.
-- **AI and LLMs:** For **AI development**, I’m focused on learning **Python** to work with **Large Language Models (LLMs)** and other cutting-edge AI technologies.
+- **AI and LLMs:** For **AI development**, I will learn **Python** to work with **Large Language Models (LLMs)** and other cutting-edge AI technologies.
 
 ---
 
