@@ -18,7 +18,7 @@ Driven by a desire to expand my expertise and pursue **remote opportunities** an
 - **JavaScript/TypeScript**
 - **Web Development (Frontend/Backend)**
   - **React**, **Next.js**
-  - **Node.js**
+  - **Node.js**, **NestJS**
   - **.NET**, **ASP.NET Core**
 - **Web3 Development** (exploring the latest trends in decentralized technologies)
 - **Enterprise-Level Applications** (experience with **ASP.NET Core**, **WPF**, **ASP.NET Web Forms**)
