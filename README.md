@@ -1,6 +1,6 @@
-# Asadullah Ehsan Technical Portfolio
+# Asadullah Ehsan
 
-## Overview
+## Technical Portfolio
 I am a full stack engineer with extensive experience across modern web frameworks and legacy systems. This document highlights my work with various technologies and my hands-on experience in research, development, and integration projects. My focus is on delivering robust, scalable solutions by leveraging best practices in both front-end and back-end development.
 
 ## Core Technologies & Projects
