@@ -1,26 +1,63 @@
-# 👋 Hi, I'm Asadullah Ehsan!
+# Asadullah Ehsan Technical Portfolio
 
-### 🌟 My Journey: From Enterprise Development to Cutting-Edge Technologies
+## Overview
+I am a full stack engineer with extensive experience across modern web frameworks and legacy systems. This document highlights my work with various technologies and my hands-on experience in research, development, and integration projects. My focus is on delivering robust, scalable solutions by leveraging best practices in both front-end and back-end development.
 
-I started my career as a **Full Stack Engineer**, working with **Angular** and **.NET** to build enterprise-level applications.
-Over time, I realized that to stay aligned with emerging trends and maximize my potential, I needed to expand my skills into more modern technologies.
+## Core Technologies & Projects
 
-Driven by a desire to expand my expertise and pursue **remote opportunities** and **relocation** to work with global teams, I transitioned to a tech stack that aligns with my passions and future goals. Here's how my journey has evolved:
+### Front-end Development
+- **Angular**
+  - Developed single-page applications.
+  - Conducted R&D and developed a proof-of-concept for microfrontend architecture using [ngx-planet]([https://ngx-planet.com/](https://github.com/worktile/ngx-planet)).
+  - Integrated advanced UI components with **PrimeNG**.
+  
+- **React & TypeScript**
+  - Conducted R&D and developed a proof-of-concept for text-to-speech accessibility.
 
-- **Primary Skills:** I began deep diving into **JavaScript** and **TypeScript** to step into in-demand technologies.
-- **Secondary Skills** Since I have spent time with C# and .NET initially in my career, I do keep an eye on it too, afterall it is ruling in the enterprise industry.
+- **Next.js**
+  - Currently exploring Next.js for building modern, static, and server-side rendered applications.
 
----
+### Back-end & API Development
+- **ASP.NET Core Web API (abp.io)**
+  - Built robust RESTful services using the [abp.io](https://abp.io/) framework.
+  
+- **Microservices Architecture**
+  - Designed and implemented API gateways using **Ocelot** in .NET.
+  
+- **Research & Development Initiatives**
+  - **RabbitMQ in .NET:** Explored asynchronous messaging and integration patterns.
+  - **Stripe Payments Integration:** Developed a proof-of-concept for integrating Stripe payments using .NET.
 
-### 💻 Skills and Expertise
+### Connector Development & Integration
+- **.NET 6 Concurrency**
+  - Developed a connector leveraging .NET 6's concurrency features to integrate external systems.
+  
+- **Webex People API Integration**
+  - Integrated the Webex People API to enhance communication solutions.
 
-- **JavaScript/TypeScript**
-- **Web Development (Frontend/Backend)**
-  - **React**, **Angular**, **Node.js**
-  - **.NET**, **ASP.NET Core**
-- **Enterprise-Level Applications** (experience with **ASP.NET Core**, **WPF**, **ASP.NET Web Forms**)
-- **Software Development & System Design** (with focus on scalable and maintainable architecture)
+### Automated Development Testing
+- **Unit Testing Frameworks**
+  - Employed **FakeItEasy** and **MSTest** to ensure code quality and reliability.
 
----
+### Desktop & Legacy Application Development
+- **WPF Applications**
+  - Integrated the connector into WPF apps and maintained existing solutions.
+  
+- **ASP.NET Web Forms**
+  - Provided ongoing maintenance and updates for legacy web forms applications.
+  
+- **Database Management**
+  - Utilized MS SQL with stored procedures to optimize data operations.
 
-Let's connect and create something amazing! 🚀
+### Cloud & Modern Technologies
+- **AWS**
+  - Currently exploring AWS for cloud services and serverless solutions.
+  
+- **GraphQL**
+  - Investigating GraphQL with HotChocolate for .NET to optimize APIs with flexible querying and improved performance.
+
+## Contact
+For collaboration opportunities or further information, please reach out via:
+
+- **Email:** [asadullahehsan10@gmail.com](mailto:asadullahehsan10@gmail.com)
+- **LinkedIn:** [Asadullah Ehsan](https://www.linkedin.com/in/asadullahehsan/)
