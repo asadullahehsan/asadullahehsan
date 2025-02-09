@@ -3,6 +3,22 @@ I am a full stack engineer with extensive experience across modern web framework
 
 ## Core Technologies & Projects
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cs" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,angular" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,aws,graphql" />
+  </a>
+</p>
+
 ### Front-end Development
 - **Angular**
   - Developed single-page applications.
