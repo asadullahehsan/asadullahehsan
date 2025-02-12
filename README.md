@@ -5,12 +5,12 @@ I am a full stack engineer with extensive experience across modern web framework
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs" />
+    <img src="https://skillicons.dev/icons?i=cs" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
 <p>
@@ -27,9 +27,6 @@ I am a full stack engineer with extensive experience across modern web framework
   
 - **React & TypeScript**
   - Conducted R&D and developed a proof-of-concept for text-to-speech accessibility.
-
-- **Next.js**
-  - Currently exploring Next.js for building modern, static, and server-side rendered applications.
 
 ### Back-end & API Development
 - **ASP.NET Core Web API (abp.io)**
