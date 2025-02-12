@@ -5,17 +5,17 @@ I am a full stack engineer with extensive experience across modern web framework
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,aws,graphql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,aws,graphql" />
   </a>
 </p>
 
