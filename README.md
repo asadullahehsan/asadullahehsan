@@ -15,7 +15,7 @@ I am a full stack engineer with extensive experience across modern web framework
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,aws,graphql" />
+    <img src="https://skillicons.dev/icons?i=aws,graphql" />
   </a>
 </p>
 
