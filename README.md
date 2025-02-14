@@ -5,7 +5,7 @@ I am a full stack engineer with extensive experience across modern web framework
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,aws,graphql" />
+    <img src="https://skillicons.dev/icons?i=ts,node,angular,cs,dotnet,aws,graphql" />
   </a>
 </p>
 
