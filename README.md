@@ -13,7 +13,7 @@ I am a full stack engineer with extensive experience across modern web framework
 - **Angular**
   - Developed single-page applications.
   - Conducted R&D and developed a proof-of-concept for microfrontend architecture using [ngx-planet]([https://ngx-planet.com/](https://github.com/worktile/ngx-planet)).
-  - Integrated advanced UI components with **PrimeNG**.
+  - Integrated UI components with **PrimeNG**.
   
 - **React & TypeScript**
   - Conducted R&D and developed a proof-of-concept for text-to-speech accessibility.
@@ -50,12 +50,17 @@ I am a full stack engineer with extensive experience across modern web framework
 - **Database Management**
   - Utilized MS SQL with stored procedures to optimize data operations.
 
-### Cloud & Modern Technologies
+### Cloud
 - **AWS**
   - Currently exploring AWS for cloud services and serverless solutions.
-  
+
+### API
 - **GraphQL**
   - Investigating GraphQL with HotChocolate for .NET to optimize APIs with flexible querying and improved performance.
+
+### AI
+- **AI Fundamentals**
+  - Learning AI fundamentals
 
 ## Contact
 For collaboration opportunities or further information, please reach out via:
