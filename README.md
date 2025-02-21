@@ -11,19 +11,18 @@ I am a full stack engineer with extensive experience across modern web framework
 
 ### Front-end Development
 - **Angular**
-  - Developed single-page applications.
   - Conducted R&D and developed a proof-of-concept for microfrontend architecture using [ngx-planet]([https://ngx-planet.com/](https://github.com/worktile/ngx-planet)).
-  - Integrated UI components with **PrimeNG**.
   
 - **React & TypeScript**
   - Conducted R&D and developed a proof-of-concept for text-to-speech accessibility.
+  - Explored Next.js basics as part of self learning.
 
 ### Back-end & API Development
 - **ASP.NET Core Web API (abp.io)**
-  - Built robust RESTful services using the [abp.io](https://abp.io/) framework.
+  - RESTful services using the [abp.io](https://abp.io/) framework.
   
 - **Microservices Architecture**
-  - Designed and implemented API gateways using **Ocelot** in .NET.
+  - API gateways using **Ocelot** in .NET.
   
 - **Research & Development Initiatives**
   - **RabbitMQ in .NET:** Explored asynchronous messaging and integration patterns.
@@ -60,7 +59,8 @@ I am a full stack engineer with extensive experience across modern web framework
 
 ### AI
 - **AI Fundamentals**
-  - Learning AI fundamentals
+  - Completed "AI fundamentals" track from DataCamp.
+  - ML.NET
 
 ## Contact
 For collaboration opportunities or further information, please reach out via:
