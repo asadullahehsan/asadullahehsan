@@ -25,7 +25,7 @@ I am a full stack engineer with extensive experience across modern web framework
   - API gateways using **Ocelot** in .NET.
   
 - **Research & Development Initiatives**
-  - **RabbitMQ in .NET:** Explored asynchronous messaging and integration patterns.
+  - **RabbitMQ in .NET:** Explored asynchronous messaging.
   - **Stripe Payments Integration:** Developed a proof-of-concept for integrating Stripe payments using .NET.
 
 ### Connector Development & Integration
