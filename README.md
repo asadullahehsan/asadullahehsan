@@ -60,7 +60,6 @@ I am a full stack engineer with extensive experience across modern web framework
 ### AI
 - **AI Fundamentals**
   - Completed "AI fundamentals" track from DataCamp.
-  - ML.NET
 
 ## Contact
 For collaboration opportunities or further information, please reach out via:
