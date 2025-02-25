@@ -28,12 +28,10 @@ I am a full stack engineer with extensive experience across modern web framework
   - **RabbitMQ in .NET:** Explored asynchronous messaging.
   - **Stripe Payments Integration:** Developed a proof-of-concept for integrating Stripe payments using .NET.
 
-### Connector Development & Integration
-- **.NET 6 Concurrency**
-  - Developed a connector leveraging .NET 6's concurrency features to integrate external systems.
-  
-- **Webex People API Integration**
-  - Integrated the Webex People API to enhance communication solutions.
+### Led Development of Concurrent .NET 6 Connector for Webex API  
+- Took ownership of the **design, development, and implementation** of a high-performance connector.  
+- Leveraged **.NET 6's concurrency features** to optimize integration with the **Webex People API**.  
+- Played a key role in **architecting the solution**, ensuring scalability and efficiency in communication systems.
 
 ### Automated Development Testing
 - **Unit Testing Frameworks**
