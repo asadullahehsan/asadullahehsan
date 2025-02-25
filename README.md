@@ -41,11 +41,9 @@ I am a full stack engineer with extensive experience across modern web framework
 - **WPF Applications**
   - Integrated the connector into WPF apps and maintained existing solutions.
   
-- **ASP.NET Web Forms**
-  - Provided ongoing maintenance and updates for legacy web forms applications.
-  
-- **Database Management**
-  - Utilized MS SQL with stored procedures to optimize data operations.
+## Maintained Legacy ASP.NET Web Forms with Optimized Database Management
+- Provided ongoing maintenance and updates for **ASP.NET Web Forms** applications.  
+- Utilized **MS SQL and stored procedures** to optimize data operations and enhance performance.  
 
 ### Cloud
 - **AWS**
