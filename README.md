@@ -15,7 +15,6 @@ I am a full stack engineer with extensive experience across modern web framework
   
 - **React & TypeScript**
   - Conducted R&D and developed a proof-of-concept for text-to-speech accessibility.
-  - Explored Next.js basics as part of self learning.
 
 ### Back-end & API Development
 - **ASP.NET Core Web API (abp.io)**
@@ -56,6 +55,10 @@ I am a full stack engineer with extensive experience across modern web framework
 ### AI
 - **AI Fundamentals**
   - Completed "AI fundamentals" track from DataCamp.
+
+### DevOps
+- **CodeAlpha Internship**
+  - I have joined Code Alpha internship in "DevOps".
 
 ## Contact
 For collaboration opportunities or further information, please reach out via:
