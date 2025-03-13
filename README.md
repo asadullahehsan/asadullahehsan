@@ -5,7 +5,7 @@ I am a full stack engineer with extensive experience across modern web framework
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,azure,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,azure,aws,docker" />
   </a>
 </p>
 
