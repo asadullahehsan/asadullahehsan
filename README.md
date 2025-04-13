@@ -1,11 +1,11 @@
 ## Technical Portfolio
-I am a full-stack engineer with extensive experience across modern web frameworks and legacy systems. I have hands-on experience in research, development, and integration projects, focusing on delivering robust, scalable solutions by leveraging best practices in both front-end and back-end development.
+I am a full-stack .NET engineer with extensive experience across modern web frameworks and legacy systems. I have hands-on experience in research, development, and integration projects, focusing on delivering robust, scalable solutions by leveraging best practices.
 
 ## Core Technologies & Projects
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,azure,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular" />
   </a>
 </p>
 
