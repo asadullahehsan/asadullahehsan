@@ -48,17 +48,9 @@ I am a full-stack .NET engineer with extensive experience across modern web fram
 - **AWS**
   - Currently exploring AWS for cloud services and serverless solutions.
 
-### API
-- **GraphQL**
-  - Investigating GraphQL with HotChocolate for .NET to optimize APIs with flexible querying and improved performance.
-
 ### AI
 - **AI Fundamentals**
   - Completed "AI fundamentals" track from DataCamp.
-
-### DevOps
-- **CodeAlpha Internship**
-  - I have joined Code Alpha internship in "DevOps".
 
 ## Contact
 For collaboration opportunities or further information, please reach out via:
